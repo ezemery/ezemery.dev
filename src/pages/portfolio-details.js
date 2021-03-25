@@ -4,7 +4,6 @@ import { Container, Row, Col } from "react-bootstrap";
 
 import { Section, Button, Title, Text, Box } from "../components/Core";
 import PageWrapper from "../components/PageWrapper";
-import Contact from "../sections/common/Contact";
 import imgWorkCover from "../assets/image/jpg/details/details-1.jpg";
 import imgS1 from "../assets/image/jpg/details/details-6.jpg";
 import imgS2 from "../assets/image/jpg/details/details-5.jpg";
@@ -186,9 +185,6 @@ const WorkSingle = () => {
             </div>
           </Container>
         </Section>
-        <Box py={4}>
-          <Contact />
-        </Box>
       </PageWrapper>
     </>
   );
