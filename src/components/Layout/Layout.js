@@ -110,7 +110,7 @@ const Layout = ({ children, pageContext }) => {
           gContext.theme.bodyDark ? getTheme(modes.dark) : getTheme(modes.light)
         }
       >
-        <ThemeSwitch />
+        {/* <ThemeSwitch /> */}
         <GlobalStyle />
         <Helmet>
           <title>Folio</title>
@@ -137,7 +137,7 @@ const Layout = ({ children, pageContext }) => {
           gContext.theme.bodyDark ? getTheme(modes.dark) : getTheme(modes.light)
         }
       >
-        <ThemeSwitch />
+        {/* <ThemeSwitch /> */}
         <GlobalStyle />
         <Helmet>
           <title>Folio</title>

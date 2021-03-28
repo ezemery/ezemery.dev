@@ -1,129 +1,102 @@
-import imgT1 from "../assets/image/jpg/agency/masonry/portfolio-mas-8.jpg";
-import imgT2 from "../assets/image/jpg/agency/masonry/portfolio-mas-7.jpg";
-import imgT3 from "../assets/image/jpg/agency/masonry/portfolio-mas-6.jpg";
-import imgT4 from "../assets/image/jpg/agency/masonry/portfolio-mas-5.jpg";
-import imgT5 from "../assets/image/jpg/agency/masonry/portfolio-mas-4.jpg";
-import imgT6 from "../assets/image/jpg/agency/masonry/portfolio-mas-3.jpg";
-import imgT7 from "../assets/image/jpg/agency/masonry/portfolio-mas-16.jpg";
-import imgT8 from "../assets/image/jpg/agency/masonry/portfolio-mas-15.jpg";
-import imgT9 from "../assets/image/jpg/agency/masonry/portfolio-mas-2.jpg";
-import imgT10 from "../assets/image/jpg/agency/masonry/portfolio-mas-1.jpg";
-import imgT11 from "../assets/image/jpg/agency/masonry/portfolio-mas-12.jpg";
-import imgT12 from "../assets/image/jpg/agency/masonry/portfolio-mas-11.jpg";
-import imgT13 from "../assets/image/jpg/agency/masonry/portfolio-mas-14.jpg";
-import imgT14 from "../assets/image/jpg/agency/masonry/portfolio-mas-13.jpg";
+import imgT1 from "../assets/image/jpg/details/vop-website.gif";
+import imgT2 from "../assets/image/jpg/details/vop-dashboard.gif";
+import imgT3 from "../assets/image/jpg/details/vop-shop-1.png";
+import imgT4 from "../assets/image/jpg/details/vop-web-1.png";
+import imgT5 from "../assets/image/jpg/details/vop-dash-4.png";
+import imgT6 from "../assets/image/jpg/details/vop-shop-2.png";
+import imgT7 from "../assets/image/jpg/details/fast-1.png";
+import imgT8 from "../assets/image/jpg/details/fast-2.png";
+import imgT9 from "../assets/image/jpg/details/ui-1.png";
+import imgT13 from "../assets/image/jpg/details/ui-5.png";
+import imgT14 from "../assets/image/jpg/details/ui-7.png";
 
 export const designWorks1 = [
   {
-    brand: `Perfumed`,
-    slug: `perfumed`,
-    title: `Adaptable but Identifiable Product for Kandinsky.`,
+    brand: `Vop `,
+    slug: `vop-web`,
+    title: `Marketing Website for  Vop`,
     categories: ["web"],
     thumbnail: imgT1,
-  link : "/portfolio-details"
+  link : "/vop-web"
 },
   {
-    brand: `Travel App`,
-    slug: `travel-app`,
-    title: `Adaptable but Identifiable Product for Kandinsky.`,
-    categories: [`photography`, `branding`],
+    brand: `Vop App`,
+    slug: `vop-app`,
+    title: `Dashboard Application for Vop`,
+    categories: [`web`],
     thumbnail: imgT2,
-  link : "/portfolio-details"
+  link : "/vop-dash"
 },
   {
-    brand: `Shopper`,
-    slug: `shopper`,
-    title: `Adaptable but Identifiable Product for Kandinsky.`,
-    categories: [`marketing`, `ux-design`, `branding`],
+    brand: `Vop shops`,
+    slug: `vop-shop`,
+    title: `Vops shops for  getvop`,
+    categories: [`web`],
     thumbnail: imgT3,
-  link : "/portfolio-details"
+  link : "/vop-shop"
 },
   {
-    brand: `Candy Store`,
-    slug: `candy-store`,
+    brand: `Vop Web`,
+    slug: `vop-web`,
     title: `Adaptable but Identifiable Product for Kandinsky.`,
-    categories: [`branding`],
+    categories: [`web`],
     thumbnail: imgT4,
-  link : "/portfolio-details"
+  link : "/vop-web"
 },
   {
-    brand: `Travel App`,
-    slug: `travel-app`,
+    brand: `Vop Dashboard`,
+    slug: `vop-app`,
     title: `Adaptable but Identifiable Product for Kandinsky.`,
-    categories: [`branding`, `photography`, `ux-design`],
+    categories: [`web`],
     thumbnail: imgT5,
-  link : "/portfolio-details"
+  link : "/vop-dash"
 },
   {
-    brand: `Ice Cream`,
-    slug: `ice-cream`,
+    brand: `Vop Shop`,
+    slug: `vop-shop`,
     title: `Adaptable but Identifiable Product for Kandinsky.`,
-    categories: [`branding`, `marketing`],
+    categories: [`web`],
     thumbnail: imgT6,
-  link : "/portfolio-details"
+  link : "/vop-shop"
 },
   {
-    brand: `Camera`,
-    slug: `Camera`,
+    brand: `Fast Website`,
+    slug: `vop-web`,
     title: `Adaptable but Identifiable Product for Kandinsky.`,
-    categories: [`branding`, `photography`],
+    categories: [`web`],
     thumbnail: imgT7,
-  link : "/portfolio-details"
+  link : "/fast"
 },
   {
-    brand: `Smart Watch`,
-    slug: `smart-watch`,
+    brand: `Fast Website`,
+    slug: `vop-dash`,
     title: `Adaptable but Identifiable Product for Kandinsky.`,
-    categories: [`branding`, `ux-design`],
+    categories: [`web`],
     thumbnail: imgT8,
-  link : "/portfolio-details"
+  link : "/fast"
 },
   {
-    brand: `Smart Film`,
-    slug: `smart-film`,
+    brand: `Chef App`,
+    slug: `chef-app`,
     title: `Adaptable but Identifiable Product for Kandinsky.`,
-    categories: [`marketing`, `ux-design`, `photography`],
+    categories: [`ux-design`],
     thumbnail: imgT9,
-  link : "/portfolio-details"
+  link : "https://www.behance.net/gallery/43680091/Hire-a-Chef-App-Simple-and-Clean-design"
 },
   {
-    brand: `Coffee Cream`,
-    slug: `coffee-cream`,
-    title: `Adaptable but Identifiable Product for Kandinsky.`,
-    categories: [`marketing`, `ux-design`],
-    thumbnail: imgT10,
-  link : "/portfolio-details"
-},
-  {
-    brand: `Noodles`,
-    slug: `noodles`,
-    title: `Adaptable but Identifiable Product for Kandinsky.`,
-    categories: [`marketing`, `photography`],
-    thumbnail: imgT11,
-  link : "/portfolio-details"
-},
-  {
-    brand: `Laptop Desk`,
-    slug: `laptop-desk`,
-    title: `Adaptable but Identifiable Product for Kandinsky.`,
-    categories: [`ux-design`, `photography`, `branding`],
-    thumbnail: imgT12,
-  link : "/portfolio-details"
-},
-  {
-    brand: `Candy Store`,
-    slug: `candy-store`,
+    brand: `Item Tracker`,
+    slug: `item-tracker`,
     title: `Adaptable but Identifiable Product for Kandinsky.`,
     categories: [`ux-design`],
     thumbnail: imgT13,
-  link : "/portfolio-details"
+  link : "https://www.behance.net/gallery/43495505/Free-Item-Tracker-App"
 },
   {
-    brand: `Caffee Roast`,
-    slug: `coffee-roast`,
+    brand: `Nnenna UI`,
+    slug: `nnenna`,
     title: `Adaptable but Identifiable Product for Kandinsky.`,
     categories: [`ux-design`],
     thumbnail: imgT14,
-  link : "/portfolio-details"
+  link : "https://www.behance.net/gallery/82307393/Nnenna-UI-design-work"
 },
 ];

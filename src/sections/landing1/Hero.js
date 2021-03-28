@@ -31,7 +31,7 @@ const Hero = () => {
                   FRONTEND DEVELOPER
                 </Text>
                 <Title variant="hero">
-                  I code  beautiful websites for clients.
+                  I design  beautiful websites for clients.
                 </Title>
 
                 <Box mt="52px">
