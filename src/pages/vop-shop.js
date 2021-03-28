@@ -40,7 +40,7 @@ const WorkSingle = () => {
                     max-width: 750px;
                   `}
                 >
-                 I built a javascript widget from ground up. The widget is embedded on popular e-commerce website such as Princess Polly in Australia and United States (https://www.princesspolly.com.au/pages/shop-tiktok). The widget enables merchants to import tiktok videos, instagram videos and products associated with these videos on their website thereby making videos shoppable. I also built the customer dashboard using shopify's react design system (polaris) to enable merchant customise the widget and revamped the marketing website for the new product using technologies like React, NextJS, Javascript.
+                This application hosts a shoppable profile url  similar to instagram. This profile page constains a javacript widget. The widget enables merchants to import tiktok videos, instagram videos and products associated with these videos on their website thereby making videos shoppable
 
                 </Text>
               </Col>
