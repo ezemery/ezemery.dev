@@ -1,9 +1,9 @@
 import imgT1 from "../assets/image/jpg/details/vop-website.gif";
 import imgT2 from "../assets/image/jpg/details/vop-dashboard.gif";
 import imgT3 from "../assets/image/jpg/details/vop-shop-1.png";
-import imgT4 from "../assets/image/jpg/details/vop-web-1.png";
-import imgT5 from "../assets/image/jpg/details/vop-dash-4.png";
-import imgT6 from "../assets/image/jpg/details/vop-shop-2.png";
+import imgT4 from "../assets/image/jpg/details/kca.png";
+import imgT5 from "../assets/image/jpg/details/1wa.png";
+import imgT6 from "../assets/image/jpg/details/tunde.png";
 import imgT7 from "../assets/image/jpg/details/fast-1.png";
 import imgT8 from "../assets/image/jpg/details/fast-2.png";
 import imgT9 from "../assets/image/jpg/details/ui-1.png";
@@ -36,28 +36,28 @@ export const designWorks1 = [
   link : "/vop-shop"
 },
   {
-    brand: `Vop Web`,
-    slug: `vop-web`,
-    title: `Adaptable but Identifiable Product for Kandinsky.`,
+    brand: `kcalimited`,
+    slug: `kca`,
+    title: `Corporate website for client`,
     categories: [`web`],
     thumbnail: imgT4,
-  link : "/vop-web"
+  link : "/kca"
 },
   {
-    brand: `Vop Dashboard`,
-    slug: `vop-app`,
-    title: `Adaptable but Identifiable Product for Kandinsky.`,
+    brand: `One World Accuracy`,
+    slug: `1wa`,
+    title: `Marketing Website for one world accuracy`,
     categories: [`web`],
     thumbnail: imgT5,
-  link : "/vop-dash"
+  link : "/1wa"
 },
   {
-    brand: `Vop Shop`,
-    slug: `vop-shop`,
-    title: `Adaptable but Identifiable Product for Kandinsky.`,
+    brand: `Tunde`,
+    slug: `tunde`,
+    title: `Corporate website for Tunde Ekpekurede`,
     categories: [`web`],
     thumbnail: imgT6,
-  link : "/vop-shop"
+  link : "/tunde"
 },
   {
     brand: `Fast Website`,
