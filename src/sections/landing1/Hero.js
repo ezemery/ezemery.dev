@@ -28,10 +28,10 @@ const Hero = () => {
                   color="heading"
                   mb="40px"
                 >
-                  FRONTEND DEVELOPER
+                  ALL ROUND COOL GUY 
                 </Text>
                 <Title variant="hero">
-                 change the world, one &lt;div&gt; at a time.
+                 changing the world, one &lt;div&gt; at a time.
                 </Title>
 
                 <Box mt="52px">
