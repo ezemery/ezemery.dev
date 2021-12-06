@@ -34,7 +34,7 @@ const WorkSingle = () => {
                     max-width: 750px;
                   `}
                 >
-                 This is Corporate website for an oil and professional services company located in portharcourt. It features the various projects executed by the business.
+                 This is a corporate website for an oil and professional services company located in portharcourt. It features the various projects executed by the business.
 
                 </Text>
               </Col>
